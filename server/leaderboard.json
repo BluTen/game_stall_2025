@@ -1,0 +1,5 @@
+[
+    { "name": "Alice", "course": "B.tech CSE", "score": 15 },
+    { "name": "Bob", "course": "B.tech ECE", "score": 12 },
+    { "name": "Charlie", "course": "B.tech Mech", "score": 18 }
+]
